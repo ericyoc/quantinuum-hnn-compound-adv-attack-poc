@@ -24,15 +24,15 @@ The provided Python script includes:
 
 Quantinuum is a leading-edge platform for quantum computing, offering tools and resources to developers and researchers to explore and develop quantum algorithms and applications. With Quantinuum, users can access quantum hardware, simulators, and development environments to accelerate quantum computing research and development.
 
-## pytket
+## pytket Python Library
 
 pytket is a Python library developed by Quantinuum for working with quantum circuits and quantum computing tasks. It provides a high-level interface for constructing, manipulating, and simulating quantum circuits, making it easier for users to experiment with quantum algorithms and protocols. pytket supports various quantum backends and integrates seamlessly with other quantum computing libraries.
 
-## pytket-qiskit
+## pytket-qiskit Python Library
 
 pytket-qiskit is an extension of pytket that enables seamless integration with Qiskit, IBM's open-source quantum computing framework. By leveraging pytket-qiskit, users can combine the capabilities of pytket with the extensive functionality of Qiskit, including access to IBM Quantum devices, simulators, and quantum algorithms. This integration enhances the versatility and interoperability of both libraries, empowering users to explore and develop quantum applications effectively.
 
-## torchattacks
+## torchattacks Python Library
 
 torchattacks is a Python library for crafting adversarial attacks on deep neural networks using PyTorch. It provides a comprehensive set of attack algorithms and techniques, including Fast Gradient Sign Method (FGSM), Projected Gradient Descent (PGD), DeepFool, and more. With torchattacks, users can evaluate the robustness of their neural network models against adversarial perturbations, facilitating research and development in adversarial machine learning and security.
 
