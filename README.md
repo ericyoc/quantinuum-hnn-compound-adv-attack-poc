@@ -2,7 +2,7 @@
 
 This repository presents a quantum-classical (or hybrid) neural network without defense against white-box, targeted, and compounded (WTC) adversarial attack mechanism. The core libraries employed are `pytket`, `pytket-qiskit`, and `torchattacks`.
 
-## Motivating Articles
+## Motivating Article
 
 Bajaj, A., & Vishwakarma, D. K. (2024). A state-of-the-art review on adversarial machine learning in image classification. Multimedia Tools and Applications, 83(3), 9351-9416. https://link.springer.com/article/10.1007/s11042-023-15883-z
 
