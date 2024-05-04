@@ -76,6 +76,12 @@ Adversarial attacks, including Fast Gradient Sign Method (FGSM), Projected Gradi
 
 The models are evaluated pre- and post-adversarial attacks to analyze the impact on accuracy and loss metrics.
 
+# Pre-attack Results
+![](https://github.com/ericyoc/quantinuum-hnn-compound-adv-attack-poc/blob/main/pre_attack_hnn_mnist.jpg)
+
+# Post Attack Results
+![](https://github.com/ericyoc/quantinuum-hnn-compound-adv-attack-poc/blob/main/post_attack_hnn_mnist.jpg)
+
 ## Conclusion
 
 The integration of quantum layers with classical neural networks demonstrates potential advancements in robustness against adversarial attacks. By leveraging quantum features within hybrid architectures and employing state-of-the-art adversarial attack techniques, the models exhibit enhanced resilience to input data perturbations.
