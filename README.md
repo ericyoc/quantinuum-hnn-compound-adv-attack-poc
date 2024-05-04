@@ -8,6 +8,8 @@ Bajaj, A., & Vishwakarma, D. K. (2024). A state-of-the-art review on adversarial
 
 ## Related Works
 
+Wendlinger, M., Tscharke, K., & Debus, P. (2024). A Comparative Analysis of Adversarial Robustness for Quantum and Classical Machine Learning Models. arXiv preprint arXiv:2404.16154. https://arxiv.org/abs/2404.16154
+
 Lu, S., Duan, L. M., & Deng, D. L. (2020). Quantum adversarial machine learning. Physical Review Research, 2(3), 033212. doi: 10.1103/PhysRevResearch.2.033212.
 
 Kim, H. (2020). Torchattacks: A pytorch repository for adversarial attacks. arXiv preprint arXiv:2010.01950. https://arxiv.org/abs/2010.01950
