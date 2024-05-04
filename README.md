@@ -86,3 +86,6 @@ The models are evaluated pre- and post-adversarial attacks to analyze the impact
 
 The integration of quantum layers with classical neural networks demonstrates potential advancements in robustness against adversarial attacks. By leveraging quantum features within hybrid architectures and employing state-of-the-art adversarial attack techniques, the models exhibit enhanced resilience to input data perturbations.
 
+## Disclaimer
+This repository is intended for educational and research purposes.
+
