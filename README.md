@@ -4,8 +4,9 @@ This repository presents an innovative approach to image classification by integ
 
 ## Motivating Articles and Related Works
 
-Kim, H. (2020). Torchattacks: A pytorch repository for adversarial attacks. arXiv preprint arXiv:2010.01950. https://arxiv.org/abs/2010.01950
+Bajaj, A., & Vishwakarma, D. K. (2024). A state-of-the-art review on adversarial machine learning in image classification. Multimedia Tools and Applications, 83(3), 9351-9416. https://link.springer.com/article/10.1007/s11042-023-15883-z
 
+Kim, H. (2020). Torchattacks: A pytorch repository for adversarial attacks. arXiv preprint arXiv:2010.01950. https://arxiv.org/abs/2010.01950
 
 https://github.com/Harry24k/adversarial-attacks-pytorch
 
