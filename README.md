@@ -2,9 +2,13 @@
 
 This repository presents a quantum-classical (or hybrid) neural network without defense against white-box, targeted, and compounded (WTC) adversarial attack mechanism. The core libraries employed are `pytket`, `pytket-qiskit`, and `torchattacks`.
 
-## Motivating Articles and Related Works
+## Motivating Articles
 
 Bajaj, A., & Vishwakarma, D. K. (2024). A state-of-the-art review on adversarial machine learning in image classification. Multimedia Tools and Applications, 83(3), 9351-9416. https://link.springer.com/article/10.1007/s11042-023-15883-z
+
+## Related Works
+
+Lu, S., Duan, L. M., & Deng, D. L. (2020). Quantum adversarial machine learning. Physical Review Research, 2(3), 033212. https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.2.033212
 
 Kim, H. (2020). Torchattacks: A pytorch repository for adversarial attacks. arXiv preprint arXiv:2010.01950. https://arxiv.org/abs/2010.01950
 
