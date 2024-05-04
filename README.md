@@ -30,7 +30,7 @@ The provided Python script includes:
 
 ## Quantinuum
 
-Quantinuum is a leading-edge platform for quantum computing, offering tools and resources to developers and researchers to explore and develop quantum algorithms and applications. With Quantinuum, users can access quantum hardware, simulators, and development environments to accelerate quantum computing research and development.
+Quantinuum is a leading-edge platform for quantum computing, offering tools and resources to developers and researchers to explore and develop quantum algorithms and applications. Quantinuum provides users access to quantum hardware, simulators, and development environments that can accelerate quantum computing research and development.
 
 ## pytket Python Library
 
