@@ -1,4 +1,4 @@
-# Hybrid Neural Network (HNN) Lacking a Defense Against White-box, Targeted, and Compounded (WTC) Adversarial Attacks
+# Hybrid Neural Network (HNN) Lacking a Defense Against White-box, Targeted, and Compounded (WTC) Adversarial Attack
 
 This repository presents a quantum-classical (or hybrid) neural network without defense against white-box, targeted, and compounded (WTC) adversarial attack mechanism. The core libraries employed are `pytket`, `pytket-qiskit`, and `torchattacks`.
 
