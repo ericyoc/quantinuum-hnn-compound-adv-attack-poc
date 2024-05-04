@@ -1,6 +1,6 @@
-# Hybrid Neural Network (HNN) with White-box, Targeted, Compounded Adversarial Attacks
+# Hybrid Neural Network (HNN) without Defense Against White-box, Targeted, Compounded Adversarial Attacks
 
-This repository presents an innovative approach to image classification by integrating a quantum-classical (or hybrid) neural network with adversarial attack mechanisms. The core libraries employed are `pytket`, `pytket-qiskit`, and `torchattacks`.
+This repository presents a quantum-classical (or hybrid) neural network without defense against white-box, targeted, compounded adversarial attack mechanism. The core libraries employed are `pytket`, `pytket-qiskit`, and `torchattacks`.
 
 ## Motivating Articles and Related Works
 
