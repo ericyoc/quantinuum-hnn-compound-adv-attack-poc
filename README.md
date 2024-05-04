@@ -104,7 +104,7 @@ Compare the accuracy and loss values before and after the attack:
 A successful attack often manifests as a notable decline in accuracy on attacked samples compared to clean ones.
 Loss values typically escalate post-attack, indicating increased uncertainty or erroneous predictions on attacked inputs.
 
-### Annalysis Summary:
+### Analysis Summary:
 By focusing on the shifts in accuracy and loss metrics pre and post a white-box, targeted, compounded adversarial attack, you can effectively determine the impact of the attack on the model's performance.
 
 ## Disclaimer
