@@ -93,7 +93,7 @@ The models are evaluated pre- and post-adversarial attacks to analyze the impact
 ## Determining Adversarial Attack Success
 To gauge the effectiveness of a white-box, targeted, compounded adversarial attack on the HNN, focus on the accuracy and loss metrics before and after the attack:
 
-### Initial Assessment:
+### Pre-attack Analysis:
 Begin by assessing the model's accuracy and loss on a clean test dataset.
 Conducting the Attack:
 Utilize white-box techniques to carry out a targeted, compounded adversarial attack.
@@ -104,7 +104,7 @@ Compare the accuracy and loss values before and after the attack:
 A successful attack often manifests as a notable decline in accuracy on attacked samples compared to clean ones.
 Loss values typically escalate post-attack, indicating increased uncertainty or erroneous predictions on attacked inputs.
 
-### Analysis Summary:
+### Assessment Summary:
 By focusing on the shifts in accuracy and loss metrics pre and post a white-box, targeted, compounded adversarial attack, you can effectively determine the impact of the attack on the model's performance.
 
 ## Disclaimer
