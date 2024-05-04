@@ -2,6 +2,13 @@
 
 This repository presents an innovative approach to image classification by integrating a quantum-classical (or hybrid) neural network with adversarial attack mechanisms. The core libraries employed are `pytket`, `pytket-qiskit`, and `torchattacks`.
 
+## Motivating Articles and Related Works
+
+Kim, H. (2020). Torchattacks: A pytorch repository for adversarial attacks. arXiv preprint arXiv:2010.01950. https://arxiv.org/abs/2010.01950
+
+
+https://github.com/Harry24k/adversarial-attacks-pytorch
+
 ## HNN Overview
 
 The provided Python script includes:
