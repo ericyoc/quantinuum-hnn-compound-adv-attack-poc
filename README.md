@@ -90,7 +90,7 @@ The models are evaluated pre- and post-adversarial attacks to analyze the impact
 # Post Attack Results
 ![](https://github.com/ericyoc/quantinuum-hnn-compound-adv-attack-poc/blob/main/post_attack_hnn_mnist.jpg)
 
-## Determining Adversarial Attack Success
+## Determining Adversarial Attack Effectiveness
 To gauge the effectiveness of a white-box, targeted, compounded adversarial attack on the HNN, focus on the accuracy and loss metrics before and after the attack:
 
 ### Pre-attack Analysis:
