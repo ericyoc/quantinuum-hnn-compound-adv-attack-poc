@@ -1,6 +1,6 @@
-# Hybrid Neural Network (HNN) without Defense Against White-box, Targeted, Compounded Adversarial Attacks
+# Hybrid Neural Network (HNN) without Defense Against White-box, Targeted, and Compounded (WTC) Adversarial Attacks
 
-This repository presents a quantum-classical (or hybrid) neural network without defense against white-box, targeted, compounded adversarial attack mechanism. The core libraries employed are `pytket`, `pytket-qiskit`, and `torchattacks`.
+This repository presents a quantum-classical (or hybrid) neural network without defense against white-box, targeted, and compounded (WTC) adversarial attack mechanism. The core libraries employed are `pytket`, `pytket-qiskit`, and `torchattacks`.
 
 ## Motivating Articles and Related Works
 
@@ -46,9 +46,9 @@ Targeted attacks are adversarial attacks aimed at causing the model to misclassi
 
 ## Compounded Attacks
 
-Compounded attacks combine multiple adversarial attack techniques to increase the effectiveness and stealthiness of the attack. By leveraging a combination of white-box, targeted, and other attack strategies, compounded attacks pose a significant threat to the robustness and security of machine learning models. The use of compounded attacks requires sophisticated techniques and tools, such as those provided by torchattacks, to evaluate and defend against adversarial threats effectively.
+Compounded attacks combine multiple adversarial attack techniques to increase the effectiveness and stealthiness of the attack. By leveraging a combination of white-box, targeted, and other attack strategies, compounded adversarial attacks pose a significant threat to the robustness and security of machine learning models. The use of compounded attacks requires sophisticated techniques and tools, such as those provided by torchattacks, to evaluate and defend against adversarial threats effectively.
 
-The incorporation of white-box, targeted, and compounded attacks using torchattacks enables comprehensive evaluation of model robustness and enhances the understanding of adversarial vulnerabilities in deep neural networks.
+The incorporation of white-box, targeted, and compounded (WTC) adversarial attacks using torchattacks enables comprehensive evaluation of model robustness and enhances the understanding of adversarial vulnerabilities in deep neural networks.
 
 ## HNN: Quantum Layer
 
